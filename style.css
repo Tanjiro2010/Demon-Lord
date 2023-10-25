@@ -1,0 +1,53 @@
+html{
+    font-family: 'Playpen Sans', cursive;
+    /* font-family: butcherman; */
+    /* font-family:nosifer; */
+    width: 100%;
+    height: auto;
+}
+.heading {
+    background-image: url(bg1.png);
+    background-size: 861px 404px;
+    text-align: center;
+    color:rgb(255, 255, 255) ;
+    font-size: 2.5rem;
+    background-size: auto;
+}
+.bt-colum{
+    overflow:auto; white-space: nowrap;
+}
+.get-minecraft-bt {
+    background-image: linear-gradient(to bottom right, red, yellow);
+    color: white;
+    width: 10rem;
+    height: 2.5rem;
+    border-radius: 15%;
+}
+.Mods-bt{
+    background-image: linear-gradient(to bottom right, red, yellow);
+    color: white;
+    width: 10rem;
+    height: 2.5rem;
+    border-radius: 15%;
+}
+.sub-heading{
+    color: darkgreen;
+    font-weight: 600;
+}
+.contact{
+    background-image: linear-gradient(to bottom right, #00274D, #00A8E8);
+    color: white;
+    border-radius: 15%;
+    width: 8rem;
+    height: 2.5rem;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+#update-1{
+    font-family:'Playpen Sans', cursive;
+    color: rgb(111, 0, 255);
+    text-align: center;
+    
+}
