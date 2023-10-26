@@ -1,10 +1,4 @@
-html{
-    font-family: 'Playpen Sans', cursive;
-    /* font-family: butcherman; */
-    /* font-family:nosifer; */
-    width: 100%;
-    height: auto;
-}
+
 .heading {
     background-image: url(bg1.png);
     background-size: 861px 404px;
@@ -53,4 +47,22 @@ img{
 }
 #Home,#updates,#contact{
     padding: 1rem;
+}
+
+/* --------------------------------------------get-minecraft---------------------------------------------------------*/
+.back-bt{
+    border-radius: 50%;
+    background-image: linear-gradient(to right, #009245, #fcee21);
+    color: white;
+    height: 4rem;
+    width: auto;
+    font-size: auto;
+}
+.home-bt-bg{
+    background-image: url(bg1.png);
+}
+.get-minecraft-heading{
+    background-image: url(bg1.png);
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
 }
