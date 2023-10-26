@@ -51,3 +51,6 @@ img{
     text-align: center;
     
 }
+#Home,#updates,#contact{
+    padding: 1rem;
+}
