@@ -1,3 +1,4 @@
+alert("welcome to demon lord's webpage")
 try {
     // Code that might throw an error
     console.log("This is a debug message.");

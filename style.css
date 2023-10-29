@@ -48,7 +48,10 @@ img{
 #Home,#updates,#contact{
     padding: 1rem;
 }
-
+.hr{
+    height: 2px; 
+    background-color: black;
+}
 /* --------------------------------------------get-minecraft---------------------------------------------------------*/
 .back-bt{
     border-radius: 50%;
